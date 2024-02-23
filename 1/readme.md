@@ -1,2 +1,2 @@
 Curso de python modulo 
--- Instalar puggin Python
+-- Instalar puggin Python en VC
